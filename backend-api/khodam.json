@@ -1,0 +1,514 @@
+[
+    {
+        "nama_khodam": "Naga Api",
+        "deskripsi": "Khodam yang melambangkan keberanian, kekuatan, dan semangat membara. Cocok untuk pribadi yang ambisius."
+    },
+    {
+        "nama_khodam": "Harimau Putih",
+        "deskripsi": "Simbol kewibawaan, perlindungan, dan kepemimpinan. Memberikan aura karismatik."
+    },
+    {
+        "nama_khodam": "Kucing Hitam",
+        "deskripsi": "Melambangkan keberuntungan, intuisi tajam, dan kemampuan beradaptasi. Sering mendampingi orang yang kreatif."
+    },
+    {
+        "nama_khodam": "Kuda Sembrani",
+        "deskripsi": "Khodam kecepatan, kebebasan, dan kemajuan. Membantu mencapai tujuan dengan cepat."
+    },
+    {
+        "nama_khodam": "Burung Garuda",
+        "deskripsi": "Simbol keagungan, kejayaan, dan perlindungan dari marabahaya. Cocok untuk pemimpin."
+    },
+    {
+        "nama_khodam": "Angsa Putih",
+        "deskripsi": "Melambangkan keindahan, kesetiaan, dan ketenangan. Membantu menjaga harmoni dalam hidup."
+    },
+    {
+        "nama_khodam": "Ular Cobra",
+        "deskripsi": "Khodam kebijaksanaan, penyembuhan, dan transformasi. Membantu menghadapi perubahan."
+    },
+    {
+        "nama_khodam": "Kupu-kupu",
+        "deskripsi": "Simbol perubahan, keindahan, dan kebahagiaan. Membawa energi positif dan optimisme."
+    },
+    {
+        "nama_khodam": "Pohon Beringin",
+        "deskripsi": "Melambangkan kekuatan, perlindungan, dan kesuburan. Memberikan ketenangan dan kedamaian."
+    },
+    {
+        "nama_khodam": "Batu Akik",
+        "deskripsi": "Simbol keberuntungan, energi positif, dan ketahanan. Membantu menguatkan mental."
+    },
+    {
+        "nama_khodam": "Sandal Jepit Kanan",
+        "deskripsi": "Khodam kesederhanaan dan kepraktisan. Anda selalu menemukan jalan keluar, bahkan saat tersesat di keramaian."
+    },
+    {
+        "nama_khodam": "Sendok Bengkok",
+        "deskripsi": "Melambangkan keunikan dan kemampuan untuk membengkokkan kenyataan. Anda punya cara pandang yang tidak biasa."
+    },
+    {
+        "nama_khodam": "Cireng Krispi",
+        "deskripsi": "Khodam kebahagiaan sesaat dan kenikmatan hidup. Anda selalu bisa menikmati hal-hal kecil."
+    },
+    {
+        "nama_khodam": "Charger HP Putus Nyambung",
+        "deskripsi": "Simbol kegigihan dan ketahanan. Anda selalu bisa bertahan walau dalam kondisi terburuk."
+    },
+    {
+        "nama_khodam": "Kaos Kaki Bolong",
+        "deskripsi": "Melambangkan kejujuran dan apa adanya. Anda tidak peduli pandangan orang lain, yang penting nyaman."
+    },
+    {
+        "nama_khodam": "Cicak Dinding",
+        "deskripsi": "Khodam pengamat ulung dan penjelajah senyap. Anda punya kemampuan melihat detail yang tersembunyi."
+    },
+    {
+        "nama_khodam": "Kentut Tengah Malam",
+        "deskripsi": "Simbol kelegaan dan kebebasan berekspresi. Anda punya jiwa yang jujur dan tidak sungkan."
+    },
+    {
+        "nama_khodam": "Tutup Tupperware Hilang",
+        "deskripsi": "Melambangkan misteri dan kemampuan beradaptasi. Anda selalu bisa menemukan pasangan, meski tidak sesuai aslinya."
+    },
+    {
+        "nama_khodam": "Sapu Lidi Patah",
+        "deskripsi": "Khodam perjuangan dan semangat pantang menyerah. Anda akan terus berjuang meski tantangan datang bertubi-tubi."
+    },
+    {
+        "nama_khodam": "Gelas Retak Seribu",
+        "deskripsi": "Simbol keindahan di balik kekurangan dan ketahanan. Anda punya daya tarik unik yang tak tergantikan."
+    },
+    {
+        "nama_khodam": "Nasi Goreng Kemarin",
+        "deskripsi": "Khodam yang menunjukkan Anda menghargai masa lalu dan tahu cara mengolahnya menjadi sesuatu yang lebih baik."
+    },
+    {
+        "nama_khodam": "Kipas Angin Rusak",
+        "deskripsi": "Melambangkan tantangan dan ketidakpastian. Anda selalu mencari solusi alternatif dalam setiap situasi."
+    },
+    {
+        "nama_khodam": "Tukang Es Krim Lewat",
+        "deskripsi": "Simbol kebahagiaan sederhana dan momen manis. Anda tahu cara menikmati hidup."
+    },
+    {
+        "nama_khodam": "Jemuran Terbang",
+        "deskripsi": "Khodam spontanitas dan kejutan. Hidup Anda penuh warna dan tak terduga."
+    },
+    {
+        "nama_khodam": "Bantal Guling Bolong",
+        "deskripsi": "Melambangkan kenyamanan sejati dan kebersahajaan. Anda menemukan kedamaian dalam hal-hal sederhana."
+    },
+    {
+        "nama_khodam": "Kabel Kusut",
+        "deskripsi": "Khodam kompleksitas dan kreativitas. Anda ahli dalam menemukan solusi di tengah kekacauan."
+    },
+    {
+        "nama_khodam": "Cangkir Pecah",
+        "deskripsi": "Simbol perubahan dan awal yang baru. Setiap akhir adalah permulaan yang indah bagi Anda."
+    },
+    {
+        "nama_khodam": "Sendal Kejepit",
+        "deskripsi": "Khodam ketidaknyamanan yang berujung tawa. Anda punya selera humor tinggi dan bisa menertawakan diri sendiri."
+    },
+    {
+        "nama_khodam": "Kelereng Hilang",
+        "deskripsi": "Melambangkan misteri dan pencarian. Anda selalu ingin tahu apa yang ada di balik setiap hal."
+    },
+    {
+        "nama_khodam": "Spidol Kering",
+        "deskripsi": "Simbol kreativitas yang butuh pemicu. Anda hanya perlu sedikit dorongan untuk menghasilkan karya luar biasa."
+    },
+    {
+        "nama_khodam": "Cicak Putus Ekor",
+        "deskripsi": "Khodam regenerasi dan kemampuan bangkit dari keterpurukan. Anda adalah pejuang sejati."
+    },
+    {
+        "nama_khodam": "Ban Bocor di Jalan",
+        "deskripsi": "Melambangkan ketahanan dan kemampuan adaptasi. Anda selalu punya 'ban serep' dalam hidup."
+    },
+    {
+        "nama_khodam": "Semut Berbaris",
+        "deskripsi": "Simbol kerja keras, disiplin, dan gotong royong. Anda adalah individu yang sistematis."
+    },
+    {
+        "nama_khodam": "Daun Jati Kering",
+        "deskripsi": "Khodam kebijaksanaan alam dan siklus kehidupan. Anda memahami bahwa setiap akhir adalah bagian dari pertumbuhan."
+    },
+    {
+        "nama_khodam": "Kaca Spion Pecah",
+        "deskripsi": "Melambangkan fokus ke depan dan tidak terpaku pada masa lalu. Anda selalu melihat peluang baru."
+    },
+    {
+        "nama_khodam": "Jaring Laba-laba",
+        "deskripsi": "Khodam kesabaran, ketelitian, dan kemampuan menjerat peluang. Anda ahli dalam strategi."
+    },
+    {
+        "nama_khodam": "Gagak Hitam",
+        "deskripsi": "Simbol misteri, transformasi, dan kecerdasan. Anda punya intuisi yang kuat."
+    },
+    {
+        "nama_khodam": "Korek Api Basah",
+        "deskripsi": "Melambangkan potensi tersembunyi yang menunggu untuk dinyalakan. Anda punya bakat yang luar biasa."
+    },
+    {
+        "nama_khodam": "Asap Rokok Berbentuk Cincin",
+        "deskripsi": "Khodam seni, kreativitas, dan kemampuan menciptakan keindahan dari hal biasa."
+    },
+    {
+        "nama_khodam": "Jangkrik Malam",
+        "deskripsi": "Simbol ketenangan, inspirasi, dan kemampuan menghibur di saat sunyi."
+    },
+    {
+        "nama_khodam": "Botol Bekas Minuman",
+        "deskripsi": "Khodam daur ulang dan potensi tersembunyi. Anda bisa mengubah hal biasa menjadi luar biasa."
+    },
+    {
+        "nama_khodam": "Tembok Berlumut",
+        "deskripsi": "Melambangkan ketahanan waktu dan kebijaksanaan. Anda menyimpan banyak kisah dan pengalaman."
+    },
+    {
+        "nama_khodam": "Tikus Got Pemberani",
+        "deskripsi": "Simbol ketangkasan, keberanian di bawah tekanan, dan kemampuan beradaptasi di lingkungan sulit."
+    },
+    {
+        "nama_khodam": "Nyamuk Bandel",
+        "deskripsi": "Khodam kegigihan dan kemampuan mengganggu sampai tujuan tercapai. Anda pantang menyerah."
+    },
+    {
+        "nama_khodam": "Karet Gelang Putus",
+        "deskripsi": "Melambangkan batas kesabaran dan dorongan untuk melepaskan beban. Anda tahu kapan harus berhenti."
+    },
+    {
+        "nama_khodam": "Koin Nyangkut di Kursi",
+        "deskripsi": "Simbol rezeki tak terduga dan keberuntungan kecil. Anda sering menemukan hal-hal baik secara tiba-tiba."
+    },
+    {
+        "nama_khodam": "Ayam Jago Berkokok Salah Waktu",
+        "deskripsi": "Khodam spontanitas dan keberanian untuk berbeda. Anda tidak takut menjadi diri sendiri."
+    },
+    {
+        "nama_khodam": "Sarung Bantal Terbalik",
+        "deskripsi": "Melambangkan perspektif unik dan kemampuan melihat hal dari sisi lain. Anda kreatif dan fleksibel."
+    },
+    {
+        "nama_khodam": "Kecoa Terbang Malam",
+        "deskripsi": "Simbol adaptasi ekstrem dan kemampuan bertahan dalam segala kondisi. Anda adalah survivor sejati."
+    },
+    {
+        "nama_khodam": "Wajan Gosong",
+        "deskripsi": "Khodam pengalaman dan pembelajaran dari kesalahan. Anda tidak takut mencoba hal baru, meski gagal."
+    },
+    {
+        "nama_khodam": "Air Kopi Tumpah",
+        "deskripsi": "Melambangkan kejutan tak terduga dan kebutuhan akan kesabaran. Anda belajar dari setiap insiden."
+    },
+    {
+        "nama_khodam": "Jendela Berembun",
+        "deskripsi": "Simbol refleksi, introspeksi, dan keinginan untuk melihat lebih jelas. Anda suka merenung."
+    },
+    {
+        "nama_khodam": "Gembok Karatan",
+        "deskripsi": "Khodam pertahanan diri dan perlindungan. Anda sulit ditembus oleh hal-hal negatif."
+    },
+    {
+        "nama_khodam": "Kecil-kecil Cabe Rawit",
+        "deskripsi": "Melambangkan kekuatan tersembunyi dan pengaruh besar meski terlihat biasa. Anda underestimated."
+    },
+    {
+        "nama_khodam": "Hantu Penunggu WiFi Lemot",
+        "deskripsi": "Simbol kesabaran tingkat dewa dan kemampuan menunggu hal yang baik."
+    },
+    {
+        "nama_khodam": "Robot Pembantu Rumah Tangga",
+        "deskripsi": "Khodam efisiensi dan kemampuan multitasking. Anda sangat terorganisir."
+    },
+    {
+        "nama_khodam": "Peri Gigi Oplosan",
+        "deskripsi": "Melambangkan keberanian untuk tampil beda dan humor yang gelap."
+    },
+    {
+        "nama_khodam": "Tuyul Penunggu Dompet Tipis",
+        "deskripsi": "Simbol pengingat untuk berhemat dan kemampuan menghadapi realitas keuangan."
+    },
+    {
+        "nama_khodam": "Pocong Penjaga Gerbang Sekolah",
+        "deskripsi": "Khodam yang selalu mengingatkan pada masa lalu dan pentingnya pendidikan."
+    },
+    {
+        "nama_khodam": "Kuntilanak Penjaga Jomblo",
+        "deskripsi": "Melambangkan kesendirian yang mandiri dan kekuatan untuk bahagia tanpa pasangan."
+    },
+    {
+        "nama_khodam": "Genderuwo Penunggu Jemuran",
+        "deskripsi": "Simbol perlindungan terhadap harta benda dan kemampuan melacak barang hilang."
+    },
+    {
+        "nama_khodam": "Babi Ngepet Bawa Kunci",
+        "deskripsi": "Khodam keberuntungan aneh dan kemampuan membuka pintu peluang yang tak terduga."
+    },
+    {
+        "nama_khodam": "Sundel Bolong Penjaga Warung Kopi",
+        "deskripsi": "Melambangkan kehangatan komunitas dan kemampuan menarik perhatian orang."
+    },
+    {
+        "nama_khodam": "Jenglot Penjaga Remote TV",
+        "deskripsi": "Simbol kepemilikan dan kemampuan menemukan barang yang selalu dicari."
+    },
+    {
+        "nama_khodam": "Wewe Gombel Tukang Gosip",
+        "deskripsi": "Khodam informasi dan kemampuan menyebarkan berita dengan cepat."
+    },
+    {
+        "nama_khodam": "Siluman Kecoak Terbang",
+        "deskripsi": "Melambangkan kecepatan adaptasi dan kemampuan menghadapi ketakutan."
+    },
+    {
+        "nama_khodam": "Jin Penunggu Galon Kosong",
+        "deskripsi": "Simbol kebutuhan akan pemenuhan dan kemampuan mencari sumber daya."
+    },
+    {
+        "nama_khodam": "Peri Kucing Garong",
+        "deskripsi": "Khodam kemandirian, licik, dan kemampuan bertahan hidup di segala kondisi."
+    },
+    {
+        "nama_khodam": "Bumi Datar",
+        "deskripsi": "Simbol pandangan unik dan kemampuan untuk melawan arus pemikiran umum."
+    },
+    {
+        "nama_khodam": "Raja Salman",
+        "deskripsi": "Khodam kemewahan, kekuasaan, dan rezeki yang melimpah."
+    },
+    {
+        "nama_khodam": "Pak RT",
+        "deskripsi": "Simbol kepemimpinan komunitas dan kemampuan menyelesaikan masalah. Disukai tetangga."
+    },
+    {
+        "nama_khodam": "Tukang Bubur Naik Haji",
+        "deskripsi": "Khodam kesabaran, kegigihan, dan keberhasilan yang diraih dengan kerja keras."
+    },
+    {
+        "nama_khodam": "Emak-emak Touring",
+        "deskripsi": "Simbol kekuatan tak terkalahkan, dominasi di jalanan, dan kemampuan menembus kemacetan."
+    },
+    {
+        "nama_khodam": "Jari Kelingking",
+        "deskripsi": "Khodam kekuatan kecil yang vital dan kemampuan mendukung hal-hal besar."
+    },
+    {
+        "nama_khodam": "Semangka Tanpa Biji",
+        "deskripsi": "Simbol kesempurnaan dan kenikmatan tanpa hambatan. Hidup Anda mulus."
+    },
+    {
+        "nama_khodam": "Es Batu di Gurun Pasir",
+        "deskripsi": "Khodam ketahanan di lingkungan ekstrem dan kemampuan memberikan kesegaran."
+    },
+    {
+        "nama_khodam": "Wajan Anti Lengket",
+        "deskripsi": "Simbol efisiensi dan kemampuan untuk tidak terikat pada masalah. Anda selalu bergerak bebas."
+    },
+    {
+        "nama_khodam": "Obat Nyamuk Bakar",
+        "deskripsi": "Khodam perlindungan dan kemampuan mengusir hal-hal yang mengganggu."
+    },
+    {
+        "nama_khodam": "Sendal Hilang Sebelah",
+        "deskripsi": "Simbol pencarian jati diri dan perjalanan hidup yang unik."
+    },
+    {
+        "nama_khodam": "Jaring Penjual Ikan",
+        "deskripsi": "Khodam kemampuan menangkap peluang dan keberuntungan dalam rezeki."
+    },
+    {
+        "nama_khodam": "Kopi Hitam Pahit",
+        "deskripsi": "Simbol kejujuran, ketegasan, dan kemampuan menikmati realita tanpa tambahan gula."
+    },
+    {
+        "nama_khodam": "Gelas Kaca Pecah Seribu",
+        "deskripsi": "Khodam keindahan dari kehancuran dan kemampuan untuk menata ulang hidup."
+    },
+    {
+        "nama_khodam": "Cermin Retak",
+        "deskripsi": "Simbol refleksi diri yang jujur dan kemampuan melihat keindahan dalam ketidaksempurnaan."
+    },
+    {
+        "nama_khodam": "Baju Kebalik",
+        "deskripsi": "Khodam keunikan dan keberanian untuk tampil beda dari orang lain."
+    },
+    {
+        "nama_khodam": "Meja Goyang",
+        "deskripsi": "Simbol ketidakstabilan yang menuntut penyesuaian. Anda selalu mencari keseimbangan."
+    },
+    {
+        "nama_khodam": "Kucing Anggora Gembul",
+        "deskripsi": "Khodam kenyamanan, kemewahan, dan kemampuan menarik perhatian dengan pesona."
+    },
+    {
+        "nama_khodam": "Spidol Permanen di Whiteboard",
+        "deskripsi": "Simbol keputusan yang tegas dan kemampuan meninggalkan jejak yang tak terhapuskan."
+    },
+    {
+        "nama_khodam": "Kulkas Kosong",
+        "deskripsi": "Khodam kebutuhan akan perubahan dan dorongan untuk mencari peluang baru."
+    },
+    {   
+        "nama_khodam": "Remote AC Tanpa Baterai",
+        "deskripsi": "Simbol potensi besar yang butuh pemicu kecil. Anda hanya perlu sedikit energi untuk berfungsi penuh."
+    },
+    {
+        "nama_khodam": "Helm SNI Terbalik",
+        "deskripsi": "Khodam keselamatan yang kreatif dan kemampuan melihat dunia dari sudut pandang berbeda."
+    },
+    {
+        "nama_khodam": "Bak Mandi Bolong",
+        "deskripsi": "Simbol ketidaksempurnaan yang justru mengajarkan efisiensi. Anda tahu cara menghemat."
+    },
+    {
+        "nama_khodam": "Gantungan Kunci Ketinggalan",
+        "deskripsi": "Khodam kelalaian yang mengarah pada petualangan tak terduga. Anda suka kejutan."
+    },
+    {
+        "nama_khodam": "Jarum Jatuh di Tumpukan Jerami",
+        "deskripsi": "Simbol ketelitian, kesabaran, dan kemampuan menemukan hal-hal tersembunyi."
+    },
+    {
+        "nama_khodam": "Power Bank Habis",
+        "deskripsi": "Khodam kemandirian dan kemampuan untuk mengisi ulang energi Anda sendiri."
+    },
+    {
+        "nama_khodam": "Kerupuk Basi",
+        "deskripsi": "Simbol penolakan terhadap hal-hal yang tidak segar dan komitmen pada kualitas."
+    },
+    {
+        "nama_khodam": "Payung Rusak di Musim Hujan",
+        "deskripsi": "Khodam ketahanan dan kemampuan menghadapi badai hidup tanpa perlindungan sempurna."
+    },
+    {
+        "nama_khodam": "Kemeja Kelebaran",
+        "deskripsi": "Simbol kenyamanan di atas segalanya dan kemampuan untuk tidak terlalu peduli penampilan."
+    },
+    {
+        "nama_khodam": "Raja Ampat",
+        "deskripsi": "Khodam keindahan alam, kemakmuran, dan kedamaian hati yang tiada tara."
+    },
+    {
+        "nama_khodam": "Pulpen Habis Tinta",
+        "deskripsi": "Khodam inspirasi yang menunggu ide baru. Anda siap menulis babak berikutnya."
+    },
+    {
+        "nama_khodam": "Kursi Goyang di Tepi Pantai",
+        "deskripsi": "Simbol relaksasi, ketenangan, dan kemampuan menikmati hidup apa adanya."
+    },
+    {
+        "nama_khodam": "Setrika Dingin",
+        "deskripsi": "Khodam potensi terpendam yang menunggu untuk diaktifkan. Anda hanya perlu pemanasan."
+    },
+    {
+        "nama_khodam": "Bunga Layu di Pagi Hari",
+        "deskripsi": "Simbol transiensi hidup dan keindahan dalam kesederhanaan. Anda menghargai setiap momen."
+    },
+    {
+        "nama_khodam": "Piring Pecah Satu",
+        "deskripsi": "Khodam keberuntungan yang unik dan kemampuan untuk tetap utuh meski ada kehilangan."
+    },
+    {
+        "nama_khodam": "Nenek Gayung",
+        "deskripsi": "Khodam kesegaran tak terduga dan kemampuan membersihkan masalah dengan cara unik."
+    },
+    {
+        "nama_khodam": "Janda Kembang",
+        "deskripsi": "Simbol daya tarik yang tak lekang oleh waktu dan kemampuan untuk memulai kembali."
+    },
+    {
+        "nama_khodam": "Kang Bakso Keliling",
+        "deskripsi": "Khodam kegigihan, keramahan, dan kemampuan membawa kebahagiaan ke mana pun Anda pergi."
+    },
+    {
+        "nama_khodam": "Si Boy Anak Jalanan",
+        "deskripsi": "Simbol kebebasan, petualangan, dan kemampuan bertahan di jalanan kehidupan."
+    },
+    {
+        "nama_khodam": "Gundam Tanpa Senjata",
+        "deskripsi": "Khodam kekuatan internal dan kemampuan bertarung dengan kecerdasan, bukan hanya kekerasan."
+    },
+    {
+        "nama_khodam": "Ultraman Jaga Minimarket",
+        "deskripsi": "Simbol perlindungan bagi yang lemah dan kemampuan menjaga ketertiban dalam skala kecil."
+    },
+    {
+        "nama_khodam": "Doraemon Pintu Kemana Saja",
+        "deskripsi": "Khodam solusi instan dan kemampuan untuk pergi ke mana pun yang Anda inginkan."
+    },
+    {
+        "nama_khodam": "Shin-chan Pantat Goyang",
+        "deskripsi": "Simbol kenakalan yang lucu dan kemampuan untuk membuat orang lain tertawa."
+    },
+    {
+        "nama_khodam": "Upin Ipin Tanpa Rambut",
+        "deskripsi": "Khodam persahabatan sejati dan kepolosan yang membawa kebahagiaan."
+    },
+    {
+        "nama_khodam": "Spongebob Tanpa Celana",
+        "deskripsi": "Simbol kebebasan berekspresi dan kemampuan untuk selalu ceria."
+    },
+    {
+        "nama_khodam": "Patrick Star Bodoh Tapi Setia",
+        "deskripsi": "Khodam kesetiaan tulus dan kemampuan untuk selalu ada bagi teman."
+    },
+    {
+        "nama_khodam": "Meme Pepe the Frog",
+        "deskripsi": "Khodam popularitas internet dan kemampuan untuk menjadi viral di mana pun."
+    },
+    {
+        "nama_khodam": "Nokia 3310 Anti Pecah",
+        "deskripsi": "Simbol ketahanan abadi dan kemampuan untuk bertahan dalam setiap kondisi."
+    },
+    {
+        "nama_khodam": "Es Teh Manis Jumbo",
+        "deskripsi": "Khodam kesegaran instan dan kemampuan untuk mengatasi dahaga hidup."
+    },
+    {
+        "nama_khodam": "Kopi Susu Instan",
+        "deskripsi": "Simbol kepraktisan, kecepatan, dan kemampuan untuk beradaptasi dengan cepat."
+    },
+    {
+        "nama_khodam": "Gorengan Hangat",
+        "deskripsi": "Khodam kenikmatan sederhana dan kemampuan untuk menghangatkan suasana."
+    },
+    {
+        "nama_khodam": "Ketoprak Pak Kumis",
+        "deskripsi": "Simbol keramahtamahan, kelezatan, dan kemampuan untuk memuaskan banyak orang."
+    },
+    {
+        "nama_khodam": "Indomie Rebus Spesial",
+        "deskripsi": "Khodam kenyamanan, kehangatan, dan kemampuan untuk selalu menjadi pilihan terbaik."
+    },
+    {
+        "nama_khodam": "Tahu Bulat Digoreng Dadakan",
+        "deskripsi": "Simbol keunikan, spontanitas, dan kemampuan untuk selalu siap sedia."
+    },
+    {
+        "nama_khodam": "Nasi Padang Komplit",
+        "deskripsi": "Khodam kelimpahan, keberanian mencoba banyak hal, dan kenikmatan hidup."
+    },
+    {
+        "nama_khodam": "Siomay Mang Ujang",
+        "deskripsi": "Simbol kebersamaan, keramahan, dan kemampuan untuk menyenangkan banyak orang."
+    },
+    {
+        "nama_khodam": "Cilok Bumbu Kacang",
+        "deskripsi": "Khodam kesederhanaan, kelezatan, dan kemampuan untuk selalu dicintai."
+    },
+    {
+        "nama_khodam": "Pisang Goreng Keju",
+        "deskripsi": "Simbol perpaduan sempurna dan kemampuan untuk menciptakan hal baru yang menarik."
+    },
+    {
+        "nama_khodam": "Martabak Manis Keju Cokelat",
+        "deskripsi": "Khodam kemewahan sederhana dan kemampuan untuk membahagiakan semua orang."
+    },
+    {
+        "nama_khodam": "Kerupuk Udang Remahan",
+        "deskripsi": "Simbol rezeki tak terduga dan kemampuan menemukan kebahagiaan dalam hal-hal kecil."
+    }
+]

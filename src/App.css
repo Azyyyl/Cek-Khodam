@@ -1,0 +1,184 @@
+/* src/App.css */
+
+/* Reset some default browser styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #f06, #4a90e2);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden; /* Prevent scrollbar from gradient */
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Ubah dari fixed 700px menjadi 100% */
+  min-height: 100vh;
+  padding: 20px; /* Tambahkan padding agar tidak terlalu mepet di layar kecil */
+}
+
+.App-header {
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: center;
+  max-width: 500px; /* Atur max-width untuk mencegah terlalu lebar di layar besar */
+  width: 90%;
+}
+
+h1 {
+  margin-bottom: 30px;
+  font-size: 2.5em;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
+
+input[type="text"] {
+  width: calc(100% - 20px);
+  padding: 12px 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #333;
+  font-size: 1.1em;
+  outline: none;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+}
+
+input[type="text"]::placeholder {
+  color: #777;
+}
+
+button {
+  background-color: #ffcc00;
+  color: #333;
+  padding: 14px 25px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.2em;
+  font-weight: 600;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+button:hover {
+  background-color: #e6b800;
+  transform: translateY(-2px);
+}
+
+.result-card {
+  margin-top: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 25px;
+  border-radius: 10px;
+  text-align: left;
+  animation: fadeInResult 0.5s ease-out forwards;
+}
+
+@keyframes fadeInResult {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.result-card h2 {
+  color: #ffcc00;
+  margin-top: 0;
+  font-size: 1.8em;
+}
+
+.result-card p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.error-message {
+  color: #ff6666;
+  margin-top: 15px;
+  font-size: 1.1em;
+}
+
+/* --- Media Queries --- */
+
+/* Untuk layar yang lebih kecil dari 768px (biasanya HP) */
+@media (max-width: 768px) {
+  .App-header {
+    padding: 25px; /* Kurangi padding untuk layar kecil */
+    width: 95%; /* Agak lebih lebar di layar kecil */
+  }
+
+  h1 {
+    font-size: 1.8em; /* Ukuran font lebih kecil untuk judul */
+    margin-bottom: 20px;
+  }
+
+  input[type="text"] {
+    padding: 10px; /* Kurangi padding input */
+    font-size: 1em; /* Ukuran font input lebih kecil */
+  }
+
+  button {
+    padding: 12px 20px; /* Kurangi padding tombol */
+    font-size: 1em; /* Ukuran font tombol lebih kecil */
+  }
+
+  .result-card {
+    padding: 20px; /* Kurangi padding result card */
+  }
+
+  .result-card h2 {
+    font-size: 1.5em; /* Ukuran font judul result card lebih kecil */
+  }
+
+  .result-card p {
+    font-size: 0.95em; /* Ukuran font paragraf result card lebih kecil */
+  }
+
+  .error-message {
+    font-size: 1em; /* Ukuran font error message lebih kecil */
+  }
+}
+
+/* Untuk layar yang lebih kecil dari 480px (HP sangat kecil) */
+@media (max-width: 480px) {
+  .App {
+    padding: 10px; /* Padding lebih kecil lagi */
+  }
+
+  .App-header {
+    padding: 20px; /* Padding header lebih kecil lagi */
+  }
+
+  h1 {
+    font-size: 1.5em; /* Judul lebih kecil lagi */
+  }
+
+  button {
+    padding: 10px 15px; /* Tombol lebih kecil lagi */
+    font-size: 0.9em;
+  }
+}
