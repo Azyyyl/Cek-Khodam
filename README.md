@@ -31,11 +31,6 @@ node server.js
 # Kembali ke direktori utama proyek (Cek-Khodam/)
 cd ..
 
-# Instal semua dependensi React/Vite yang diperlukan
-# (Hanya perlu dilakukan sekali atau saat ada perubahan dependensi)
-npm install
-# Atau jika Anda menggunakan Yarn: yarn install
-
 # Jalankan development server Vite
 npm run dev
 # Atau jika Anda menggunakan Yarn: yarn dev
