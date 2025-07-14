@@ -7,9 +7,10 @@ Selamat datang di proyek Cek Khodam! Repositori ini berisi **frontend (React Vit
 
 ## Cara Menjalankan Proyek 🚀
 
-Ikuti langkah-langkah di bawah ini untuk mengkloning repositori dan menjalankan aplikasi di lingkungan lokal Anda. Pastikan Anda sudah menginstal **Node.js** dan **npm** (atau Yarn/pnpm) di sistem Anda.
+Ikuti langkah-langkah di bawah ini untuk mengkloning repositori dan menjalankan aplikasi di lingkungan lokal Anda. 
+Pastikan Anda sudah menginstal **Node.js** dan **npm** (atau Yarn/pnpm) di sistem Anda.
 
-### 1. Kloning Repositori
+### Instalasi
 
 Pertama, kloning repositori ini ke komputer lokal Anda menggunakan Git:
 
